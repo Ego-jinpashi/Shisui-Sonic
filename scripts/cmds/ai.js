@@ -45,7 +45,7 @@ module.exports = {
 
   config: {
 
-    name: 'ai',
+    name: 'inata',
 
     version: '1.1.1',
 
