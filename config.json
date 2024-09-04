@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61556172651835"],
+    "61556172651835","100090196633300"],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
@@ -27,8 +27,8 @@
   "AGE": "16",
   "GENDER": "MALE",
   "nickNameBot": "✗𝐒𝐇𝐀𝐃Ø𝐖✗",
-  "FACEBOOK": "https://www.facebook.com/profile.php?id=100090405019929",
-  "prefix": "-",
+  "FACEBOOK": "https://www.facebook.com/simon.junior27",
+  "prefix": "@",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
